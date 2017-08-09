@@ -1,4 +1,4 @@
-
+// adding this comment to test git branch and merge
 function convertToRoman(number) {
 var numInArr = []; //array of digits
 var sNumber = number.toString(); //stringify number
